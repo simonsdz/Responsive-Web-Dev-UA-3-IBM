@@ -1,0 +1,26 @@
+.background-content {
+      background: url(/v960-ning-30.jpg);
+      background-size: cover;
+      margin: 1.7em;
+      padding: 1em;
+      background-repeat: no-repeat;
+      width: 90%;
+      text-shadow: 1px 1px 0px rgb(14, 21, 20);
+      margin: 1em auto;
+}
+span {
+      color: rgb(220, 5, 5);
+}
+.head {
+      margin: 1em 1em;
+}
+.image {
+      width: 80%;
+      display: block;
+      margin: 0 auto;
+}
+@media screen and (min-width: 900px) {
+      .image {
+            width: 50%;
+      }
+}
